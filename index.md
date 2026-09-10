@@ -17,4 +17,4 @@ Browse my [projects](/projects.html) or check out my [resume](/resume.html).
 
 ---
 
-**Contact:** [LinkedIn](https://linkedin.com/in/your-linkedin-username) · [GitHub](https://github.com/your-github-username) · your.email@example.com
+**Contact:** [LinkedIn](https://linkedin.com/in/yash-seetharaman)

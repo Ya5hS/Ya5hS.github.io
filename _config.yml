@@ -23,8 +23,7 @@ defaults:
       layout: "project"
 
 # Update these to match your actual accounts
-github_username: Ya5hS
-linkedin_username: Yash Seetharaman
+linkedin_username: www.linkedin.com/in/yash-seetharaman
 
 plugins:
   - jekyll-feed
