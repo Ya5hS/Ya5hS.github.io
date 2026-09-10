@@ -1,0 +1,30 @@
+title: Yash Seetharaman
+description: Structural Engineering Portfolio — UC San Diego
+theme: minima
+minima:
+  skin: dark
+
+# Nav bar links (minima reads header_pages)
+header_pages:
+  - projects.md
+  - resume.md
+
+# Collection for projects — lets each project live as its own file in _projects/
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+
+# Update these to match your actual accounts
+github_username: your-github-username
+linkedin_username: your-linkedin-username
+
+plugins:
+  - jekyll-feed
