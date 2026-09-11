@@ -17,4 +17,4 @@ Browse my [projects](/projects.html) or check out my [resume](/resume.html).
 
 ---
 
-**Contact:** [LinkedIn](https://linkedin.com/in/yash-seetharaman)
+**Contact:** [LinkedIn](https://linkedin.com/in/yash-seetharaman)·[yashSee2006@gmail.com](mailto:yashSee2006@gmail.com)
