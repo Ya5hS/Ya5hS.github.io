@@ -9,3 +9,15 @@
   width: 100% !important;
   margin-bottom: 1.5em;
 }
+
+body{
+background-image: url("/assets/images/background.jpg");
+background-size: cover;
+background-position: center;
+background-attachment: fixed;
+}
+.wrapper{
+background-color: rgba(255,255,255,.92);
+padding: 2em;
+border-radius: 6px;
+}
