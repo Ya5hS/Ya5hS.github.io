@@ -21,8 +21,7 @@ Design a single-bay steel pipe rack to support cryogenic propellant transfer lin
 
 Drafted in AutoCAD as drawing **S-101 — "Cryogenic Transfer Pipe Rack"**, 1/4" = 1'-0" scale, D-size layout with title block.
 
-<!-- Once exported, add the drawing image here: -->
-<!-- ![S-101 Pipe Rack Drawing](/assets/images/s-101-pipe-rack.png) -->
+![S-101 Pipe Rack Drawing](/assets/images/pipe-rack.png)
 
 ## Outcome
 
